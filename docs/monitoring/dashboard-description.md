@@ -1,0 +1,6 @@
+"# Описание мониторинг дашборда" 
+"" 
+"## Основные метрики" 
+"- CPU utilization" 
+"- Memory usage" 
+"- Response time" 
