@@ -8,7 +8,7 @@
 1. [Нефункциональные требования](./docs/requirements/quality-requirements.md)  
 2. [Стратегия тестирования](./docs/testing/test-strategy.md)  
 3. [Шаблон инцидента](./docs/incidents/incident-template.md)  
-4. [Пример инцидента 2025-10-26](./docs/incidents/incident-2025-10-26.md)  
+4. [Пример инцидента 2025-10-30](./docs/incidents/incident-2025-10-26.md)  
 5. [Описание дашборда мониторинга](./docs/monitoring/dashboard-description.md)
 
 ## Контактные лица
